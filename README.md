@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # ScreenShots
 
-![](./assets/img1.png)
+![](./assets/img1.PNG)
 
 ![](./assets/img2.png)
 
